@@ -8,12 +8,7 @@
             "extensions": [
                 "ms-azuretools.vscode-docker",
                 "alefragnani.bookmarks",
-                "eamodio.gitlens",
-                "eg2.vscode-npm-script",
-                "dbaeumer.vscode-eslint",
-                "christian-kohler.npm-intellisense",
-                "christian-kohler.path-intellisense",
-                "streetsidesoftware.code-spell-checker"
+                "eamodio.gitlens"
             ]
         }
     }
